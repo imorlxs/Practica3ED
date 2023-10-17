@@ -1,0 +1,7 @@
+/home/isaac/UGR/ED/Practica3ED/cmake-build-debug/CMakeFiles/maxstack.dir
+/home/isaac/UGR/ED/Practica3ED/cmake-build-debug/CMakeFiles/maxqueue.dir
+/home/isaac/UGR/ED/Practica3ED/cmake-build-debug/CMakeFiles/pila_max.dir
+/home/isaac/UGR/ED/Practica3ED/cmake-build-debug/CMakeFiles/cola_max.dir
+/home/isaac/UGR/ED/Practica3ED/cmake-build-debug/CMakeFiles/doc_doxygen.dir
+/home/isaac/UGR/ED/Practica3ED/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/isaac/UGR/ED/Practica3ED/cmake-build-debug/CMakeFiles/rebuild_cache.dir

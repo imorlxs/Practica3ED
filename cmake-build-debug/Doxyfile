@@ -1,0 +1,6 @@
+PROJECT_NAME           = "Práctica 2. Pilas y Colas"
+OUTPUT_DIRECTORY       = /home/isaac/UGR/ED/Practica3ED/cmake-build-debug/doc_doxygen/
+INPUT                  = /home/isaac/UGR/ED/Practica3ED/estudiante/include /home/isaac/UGR/ED/Practica3ED/estudiante/src /home/isaac/UGR/ED/Practica3ED/estudiante/doc
+GENERATE_LATEX         = NO
+IMAGE_PATH             = /home/isaac/UGR/ED/Practica3ED/estudiante/doc
+EXTRACT_PRIVATE	       = NO

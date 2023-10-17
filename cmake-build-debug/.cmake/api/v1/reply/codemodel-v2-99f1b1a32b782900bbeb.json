@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "p03_pilas_colas",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cola_max::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cola_max-Debug-84986a8f851c0c5e5609.json",
+					"name" : "cola_max",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "doc_doxygen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-doc_doxygen-Debug-f48eee391dfb7e498caa.json",
+					"name" : "doc_doxygen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "maxqueue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-maxqueue-Debug-f513c7f402521e13a09a.json",
+					"name" : "maxqueue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "maxstack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-maxstack-Debug-9b9ea15add25e42dedd2.json",
+					"name" : "maxstack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pila_max::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pila_max-Debug-e56d5c05b6a79d78f8a1.json",
+					"name" : "pila_max",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/isaac/UGR/ED/Practica3ED/cmake-build-debug",
+		"source" : "/home/isaac/UGR/ED/Practica3ED"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
